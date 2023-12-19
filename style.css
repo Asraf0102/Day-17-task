@@ -1,0 +1,31 @@
+body{
+    background: rgb(139, 146, 114);
+    background: linear-gradient(90deg, rgba(219, 209, 193, 0.705) 35%, rgba(244, 247, 247, 0.767) 75% );
+    
+   }
+  
+  .card-header{
+    background-color: rgb(218, 117, 107);
+    color: white;
+    text-transform: uppercase;
+  } 
+
+  .card{
+     background: rgb(156, 125, 139);
+     /* background: radial-gradient(circle, rgb(235, 231, 231) 20%, rgb(88, 224, 172) 70%);  */
+     background: linear-gradient(to right, rgb(211, 203, 203) 60%,rgb(146, 146, 197));
+  }
+
+  .card-text{
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  img{
+    border: 1px solid white;
+  
+  }
+
+  .card-body{
+    font-family: none;
+  }
